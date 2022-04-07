@@ -1,4 +1,4 @@
-training_js_clock
+# Training in Js: Make a clock!
 
 WesBos JS30 Training (https://courses.wesbos.com/)
 
